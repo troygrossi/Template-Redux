@@ -4,7 +4,18 @@
 
 # Redux without toolkit
 
-## Getting Started
+
+## Deploying the project
+
+1. Create a new folder
+2. Type: 'git init' to create a new local repo
+3. Type: 'git remote add origin git@github.com:troygrossi/Redux-Template.git'
+4. Type: 'git pull origin main' to pull the code from my remote repo
+4. cd into the client folder
+5. Type: 'npm install' to install the dependencies
+6. Type: 'npm run start' to deploy the project locally
+
+## Creating the project
 
 1. npm create-react-app
 2. npm i redux react-redux
