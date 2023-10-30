@@ -1,4 +1,7 @@
 # React Redux
+- *Note: 10/30/2023
+- create-react-app is depricated
+- vanilla redux is depricated, recommended to use redux-toolkit
 
 
 
